@@ -1,2 +1,4 @@
 # hello-world
-A trial repository
+
+hi all.
+this is just a trial repository that I'm working on.
